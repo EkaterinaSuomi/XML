@@ -1,0 +1,13 @@
+<root>
+  <Bug_ID>1</Bug_ID>
+  <Summary>В нижней части страницы не работает ссылка на Instagram при нажатии на иконку Instagram</Summary>
+  <Severity>Major</Severity>
+  <Priority>заполняется менеджером</Priority>
+  <Author>Ekaterina Dubovskaya</Author>
+  <Environment>Windows 10 Корпоративная, 64-х разрядная ОС, Google Chrome, Версия 104.0.5112.81</Environment>
+  <Precondition>Открыть главную страницу сайта http://130.193.37.179/app/pets</Precondition>
+  <Attachments>Video</Attachments>
+  <Steps_to_Reproduce>1. Спуститься в нижнюю часть/footer страницы 2. Нажать на иконку Instagram в правом углу</Steps_to_Reproduce>
+  <Actual_Result>Кнопка-ссылка на социальную сеть Instagram не работает/не кликабельна</Actual_Result>
+  <Expected_Result>Пользователь переходит на профиль питомника в соц. сети Instagram</Expected_Result>
+</root>
